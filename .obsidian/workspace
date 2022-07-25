@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "759f4603c2771f74",
+        "id": "4c1b2e8f1adf9fac",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -128,8 +128,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "759f4603c2771f74",
+  "active": "4c1b2e8f1adf9fac",
   "lastOpenFiles": [
+    "Untitled.md",
+    "bootcamp/buoi 1.md",
     "buoi 1.md"
   ]
 }
