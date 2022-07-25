@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "951fd0bd2667e125",
+    "type": "split",
+    "children": [
+      {
+        "id": "759f4603c2771f74",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "bootcamp/buoi 1.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "09d6ef8d8fd93dce",
+    "type": "split",
+    "children": [
+      {
+        "id": "81c63b54b546ddd1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbd54435522f200d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8b7b15ed18075971",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f4bf0d6afb2ab5d3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "af559f444630d325",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e2fbd5f3c81cc0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42a4240993f909d7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "bootcamp/buoi 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "37c76d6098bb34c8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "bootcamp/buoi 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5309b102e6242258",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "eb159893654a2c77",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "bootcamp/buoi 1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "759f4603c2771f74",
+  "lastOpenFiles": [
+    "buoi 1.md"
+  ]
+}
