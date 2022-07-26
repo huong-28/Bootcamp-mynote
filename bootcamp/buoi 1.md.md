@@ -21,6 +21,7 @@
 <html> 
  <img src="https://kenh14cdn.com/zoom/460_289/203336854389633024/2022/7/24/photo1658681191055-16586811913482120619873.jpg"/>
 
-
+alt: alternate
+hr: horizontal 
 
 
